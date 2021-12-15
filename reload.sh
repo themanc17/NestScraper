@@ -2,7 +2,7 @@
 
 #The return page that is opened when a user completes their option
 
-clear  #do i want this?
+clear
 
 figlet "NEST SCRAPER" | lolcat
 echo "by Darito" | lolcat
