@@ -3,5 +3,5 @@
 
 export PATH=$PATH:/home/kali/.local/bin
 
-echo "Loading Pre-requisits"
+echo "Loading Prerequisites"
 ./MenuP.sh
